@@ -8,5 +8,4 @@ Contains:
       
       3. A .sql file containing all the solutions to the above queries.
 This database has been taken from "w3resource" and the queries are taken from there as well.
-
-The solution file has been created by me and contains my take on the queries.
+LINK- https://www.w3resource.com/sql-exercises/movie-database-exercise/index.php
