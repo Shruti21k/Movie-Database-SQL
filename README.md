@@ -7,6 +7,7 @@ Contains:
       2. A .sql file containing all the queries I ran on the MOVIE DATABASE
       
       3. A .sql file containing all the solutions to the above queries.
-This database has been taken from "w3resource" and the queries are taken from there as well.
+
+The database and corresponding queries have been sourced from "w3resource".
 
 LINK- https://www.w3resource.com/sql-exercises/movie-database-exercise/index.php
