@@ -10,4 +10,4 @@ Contains:
 
 The database and corresponding queries have been sourced from "w3resource".
 
-LINK- https://www.w3resource.com/sql-exercises/movie-database-exercise/index.php
+Link- https://www.w3resource.com/sql-exercises/movie-database-exercise/index.php
